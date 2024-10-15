@@ -1,8 +1,20 @@
-{
-  "to-do": [
-  { "userId": 1 , "completed": true , "title": "tarefa 1" },
-  { "userId": 2 , "completed": false , "title": "tarefa 2" },
-  { "userId": 3 , "completed": false , "title": "tarefa 3" }
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "tarefa 01",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "tarefa 02",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "tarefa 03",
+    "completed": false
+  }
 ]
-
-}
